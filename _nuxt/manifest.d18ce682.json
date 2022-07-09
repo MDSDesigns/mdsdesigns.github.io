@@ -1,7 +1,4 @@
 {
-  "name": "portfolio",
-  "short_name": "portfolio",
-  "description": "## Build Setup",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.82fc03.png",
