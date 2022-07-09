@@ -1,4 +1,6 @@
 {
+  "name": "portfolio",
+  "short_name": "portfolio",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.82fc03.png",
